@@ -61,3 +61,4 @@ A simple currency converter built with React.js and styled using Tailwind CSS. T
 
 - `tailwindcss`
 - `vite`
+- `eslint`
