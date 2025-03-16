@@ -1,5 +1,8 @@
 # Currency Converter App
 
+<img width="1508" alt="Image" src="https://github.com/user-attachments/assets/3a076b34-689c-4c7c-8b81-228bc24157a8" />
+The image displays the user interface of a sleek and functional Currency Converter App, The interface is clean, user-friendly, and focused on providing a seamless experience for users needing quick currency conversion.
+
 A simple currency converter built with React.js and styled using Tailwind CSS. This app fetches the current exchange rates and allows users to convert between currencies.
 
 ## Features
