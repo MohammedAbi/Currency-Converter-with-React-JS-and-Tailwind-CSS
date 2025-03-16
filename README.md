@@ -18,6 +18,12 @@ A simple currency converter built with React.js and styled using Tailwind CSS. T
 - **Tailwind CSS**: Utility-first CSS framework for styling the app.
 - **Frankfurter API**: API used for currency conversion and fetching available currencies.
 
+**Hosted On netlify:**  
+[application-cca](https://currency-converter-application-cca.netlify.app/)
+
+**GitHub Repository:**  
+[GitHub repo](https://github.com/MohammedAbi/Currency-Converter-with-React-JS-and-Tailwind-CSS)
+
 ## Installation
 
 1. Clone the repository:
